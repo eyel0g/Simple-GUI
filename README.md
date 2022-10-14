@@ -1,2 +1,2 @@
 # simple-GUI
-Calculate Circum or Area
+Calculate Circum or Area via radius
